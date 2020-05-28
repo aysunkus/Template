@@ -756,10 +756,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 616db8ab-1a6e-4cde-91c2-b30c9dd3d211
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: SpaceShoter
+  organizationId: unity_76hlnjo3z-ksdw
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

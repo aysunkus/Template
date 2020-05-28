@@ -15,7 +15,8 @@ public class CoinCollector : MonoBehaviour
 
         other.gameObject.SetActive(false);
 
-        text.text = "Point:  " + toplananCoinSayisi.ToString();
+        //text.text = "Point:  " + toplananCoinSayisi.ToString();
+
         //Destroy(other.gameObject); siliyor
         //Debug.Log("TEMAS OLDU");
         // sayac++;

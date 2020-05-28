@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-
     void Start()
     {
 
@@ -13,6 +12,5 @@ public class Coin : MonoBehaviour
     void Update()
     {
         transform.Rotate(new Vector3(15, 30, 45) * Time.deltaTime);
-
     }
 }
